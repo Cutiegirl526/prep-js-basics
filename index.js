@@ -10,7 +10,9 @@
 * It should be a String.
 **/
 
-
+var firstName ="Kayla";
+var lastName ="Diniega";
+var birthPlace="Hawaii";
 
 /**
 * #2
@@ -22,7 +24,9 @@
 * Their values should be a Number
 **/
 
-
+var favoriteNumber ="1944";
+var currentYear ="2016";
+var thatOnePrinceSong ="Fresh Prince of bel-air";
 
 /**
 * #3
@@ -34,7 +38,9 @@
 * Their values should be a Boolean
 **/
 
-
+var isDaytime =true;
+var isLeftHanded =false;
+var inHawaii =true;
 
 /**
 * #4
@@ -45,7 +51,8 @@
 * Their values should be a Null value
 **/
 
-
+var enrolledAtDevLeague = NaN;
+var completedFridayPrep = NaN;
 
 /**
 * #5a
@@ -56,7 +63,7 @@
 * which can be found along the west coast of The United States.
 **/
 
-
+var westCoast = ["California", "Oregon", "Hawaii"]
 
 /**
 * #5b
@@ -67,7 +74,7 @@
 * Have at least ten even values in this array.
 **/
 
-
+var evenNumbers = ["2", "4", "6", "8", "10", "12", "14", "16", "18", "20"]
 
 /**
 * #6a Arithmetic
@@ -80,7 +87,7 @@
 * Extend this behavior to include subtraction, multiplication and division.
 */
 
-
+var sumOfNumbers = ("3*6+9/5-7")
 
 
 /**
@@ -99,7 +106,7 @@
 *   operator(==) vs triple comparison operator(===).
 */
 
-
+var isEqual = Tacocat == tacocat
 
 /**
 * #6c Assignments
@@ -116,7 +123,7 @@
 *   it can only test that you declared the variable by giving it the right name.
 */
 
-
+var generalContainer = 
 
 
 /**
@@ -131,7 +138,7 @@
 * Store the return value to a variable named `jumpResult`
 **/
 
-
+var jumpResult = "I jumped" + height + "feet high"
 
 /**
 * #7b
@@ -143,3 +150,4 @@
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
 
+var 
