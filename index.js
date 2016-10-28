@@ -138,7 +138,10 @@ var generalContainer =
 * Store the return value to a variable named `jumpResult`
 **/
 
-var jumpResult = "I jumped" + height + "feet high"
+function jump(height){
+	return "you jumped" + height + "feet high"
+}
+jump(9);
 
 /**
 * #7b
@@ -150,4 +153,7 @@ var jumpResult = "I jumped" + height + "feet high"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
 
-var 
+function cook(ingredient1, ingredient2, ingredient3){
+	return ingredient1 + " and " + ingredient2 + " make a " ingredient3 + "!"
+}
+cook(Tomatoes, Cheese, Pizza);
